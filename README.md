@@ -21,9 +21,10 @@
 
 &emsp;&emsp; 
 ![Java](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java)
+![Vue](https://img.shields.io/badge/-Vue-1572B6?style=flat-square&logo=vuedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Vue](https://img.shields.io/badge/-Vue-1572B6?style=flat-square&logo=vuedotjs)
+
 
 🧰 常用工具：
 
