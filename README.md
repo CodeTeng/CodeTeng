@@ -5,7 +5,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://www.yuque.com/books/share/ffbf2b86-52af-4a4f-b144-507a890fb8dc?# 《木子Teng的计算机知识库》"><img src="https://img.shields.io/badge/知识库-语雀-green"></a>&emsp;
+  <a href="https://www.yuque.com/ambition-bcpii/muziteng"><img src="https://img.shields.io/badge/知识库-语雀-green"></a>&emsp;
   <a href="https://blog.csdn.net/m0_52781902/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/699813925/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/lovely-92-81-60/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
