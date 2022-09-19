@@ -32,6 +32,7 @@
 &emsp;&emsp; 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-important?style=flat-square&logo=redis)
 ![Idea](https://img.shields.io/badge/-Idea-red?style=flat-square&logo=intellijidea)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-blue?style=flat-square&logo=webstorm)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-green?style=flat-square&logo=datagrip)
