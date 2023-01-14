@@ -43,7 +43,7 @@
 # 🚀 Actions
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://metrics.lecoq.io/CodeTeng?template=classic&config.timezone=Asia%2FShanghai"></div>
+<div align="center"> <img src="https://metrics.lecoq.io/CodeTeng?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <br>
 
 <!-- GitHub数据统计 -->
