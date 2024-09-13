@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=我是木子Teng，一名大四计科学生&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=我是木子Teng，一名研一计算机学生&center=true&size=27">
 </h1>
 
 <!-- 个人资料徽标 -->
@@ -14,7 +14,7 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是木子Teng! 目前就读于重庆交通大学计算机科学与技术专业，热爱分享与学习技术，励志成为一名资深架构师!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是木子Teng! 目前就读于北京交通大学计算机科学与技术学院，热爱分享与学习技术，励志成为一名资深架构师!</p>
 <p>&emsp;&emsp;种一棵树最好的时间是十年前，其次是现在。一切的一切都刚刚好，让我们继续努力，💪💪💪</p>
 
 🧠 常用语言：
@@ -63,7 +63,8 @@
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
