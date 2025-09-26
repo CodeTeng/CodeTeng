@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=我是木子Teng，一名研一计算机学生&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=我是木子Teng，一名研二计算机学生&center=true&size=27">
 </h1>
 
 <!-- 个人资料徽标 -->
@@ -22,6 +22,7 @@
 &emsp;&emsp; 
 ![C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java)
+![Golang](https://img.shields.io/badge/Golang-yellow&logo=golang)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-1572B6?style=flat-square&logo=vuedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
