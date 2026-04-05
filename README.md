@@ -1,110 +1,155 @@
-<!-- 动态打字效果 -->
+<!-- 打字动画：Heroku 免费实例已停，改用官方 Demo 域名 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=我是木子Teng，一名研二计算机学生&center=true&size=27">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=%E6%88%91%E6%98%AF%E6%9C%A8%E5%AD%90Teng%EF%BC%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F+%7C+AI+%E5%BA%94%E7%94%A8%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%8C%96"
+    alt="typing intro"
+  />
 </h1>
 
-<!-- 个人资料徽标 -->
+<!-- 个人链接；访客统计改用 komarev（Glitch 易休眠导致图片裂图） -->
 <div align="center">
-  <a href="https://www.yuque.com/ambition-bcpii/muziteng"><img src="https://img.shields.io/badge/知识库-语雀-green"></a>&emsp;
-  <a href="https://blog.csdn.net/m0_52781902/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/699813925/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/lovely-92-81-60/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=CodeTeng" alt="访客统计" /></div>
+  <a href="https://www.tengvibecoding.site/"><img src="https://img.shields.io/badge/VibeCoding-作品集-7C3AED?style=flat-square" alt="VibeCoding 作品集"></a>
+  &emsp;
+  <a href="https://www.yuque.com/ambition-bcpii/muziteng"><img src="https://img.shields.io/badge/知识库-语雀-30b566?style=flat-square" alt="语雀"></a>
+  &emsp;
+  <a href="https://blog.csdn.net/m0_52781902/"><img src="https://img.shields.io/badge/CSDN-博客-c32136?style=flat-square" alt="CSDN"></a>
+  &emsp;
+  <a href="https://space.bilibili.com/699813925/"><img src="https://img.shields.io/badge/bilibili-B站-00A1D6?style=flat-square" alt="bilibili"></a>
+  &emsp;
+  <a href="https://www.zhihu.com/people/lovely-92-81-60/"><img src="https://img.shields.io/badge/知乎-主页-0084ff?style=flat-square" alt="知乎"></a>
+  &emsp;
+  <img src="https://komarev.com/ghpvc/?username=CodeTeng&label=Views&color=0e75b6&style=flat-square" alt="profile views" />
+</div>
 
-#  🙋 Hello
+<br/>
 
-<p>✍️&nbsp;&nbsp;大家好，我是木子Teng! 目前就读于北京交通大学计算机科学与技术学院，热爱分享与学习技术，跟进前沿AI技术学习，拥抱AI!</p>
-<p>&emsp;&emsp;种一棵树最好的时间是十年前，其次是现在。一切的一切都刚刚好，让我们继续努力，💪💪💪</p>
+## 🙋 Hello
 
-🧠 常用语言：
+我是 **木子 Teng**，北京交通大学计算机科学与技术学院 **研二** 硕士生。平时喜欢 **Vibe Coding**、写笔记、跟进 **AI 前沿**。
 
-&emsp;&emsp; 
-![C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java)
-![Golang](https://img.shields.io/badge/Golang-yellow&logo=golang)
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-1572B6?style=flat-square&logo=vuedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+关注大模型落地与工程化，包括 **RAG**、**Agent**、**工具调用**、**评测与提示工程**；也折腾 **AI 辅助开发（Cursor / Claude Code 等）**。相信「工具会变，但问题拆解与系统能力会一直有用」。
+
+> 种一棵树最好的时间是十年前，其次是现在。继续学习，继续输出，拥抱AI。
+
+---
+
+## 🧠 语言
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 
-🧰 常用工具：
+## 🧰 工具与平台
 
-&emsp;&emsp; 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![CLion](https://img.shields.io/badge/CLion-FAA624?style=style=flat-square&logo=clion)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Redis](https://img.shields.io/badge/-Redis-important?style=flat-square&logo=redis)
-![Idea](https://img.shields.io/badge/-Idea-red?style=flat-square&logo=intellijidea)
-![WebStorm](https://img.shields.io/badge/-WebStorm-blue?style=flat-square&logo=webstorm)
-![DataGrip](https://img.shields.io/badge/-DataGrip-green?style=flat-square&logo=datagrip)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-14120b?style=flat-square" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D4A574?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-🔭 我的技术栈：
-<table><tr><td valign="top" width="33%">
+---
+
+## 🔭 技术栈
+
+<!-- GitHub 会过滤部分 HTML 属性，外链图标用 img+src 最稳 -->
+<table>
+<tr>
+<td valign="top" width="25%">
 
 #### Frontend
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
+
+<div align="center">
+<a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="48" /></a>
+<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="48" /></a>
+<a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="48" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="48" /></a>
+<a href="https://vuejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="48" /></a>
+<a href="https://getbootstrap.com/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="48" /></a>
+<a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="48" /></a>
+<a href="https://webpack.js.org/"><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="48" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="25%">
 
 #### Backend
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+
+<div align="center">
+<a href="https://www.cprogramming.com/"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="48" /></a>
+<a href="https://isocpp.org/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="48" /></a>
+<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="48" /></a>
+<a href="https://go.dev/"><img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="48" /></a>
+<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="48" /></a>
+<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="48" /></a>
+<a href="https://redis.io/"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="48" /></a>
+<a href="https://www.mongodb.com/"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="48" /></a>
+<a href="https://www.rabbitmq.com/"><img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="48" /></a>
+<a href="https://spring.io/projects/spring-framework"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="48" /></a>
+<a href="https://www.elastic.co/"><img src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="48" /></a>
+<a href="https://www.nginx.com/"><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="48" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="25%">
 
 #### DevOps
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+
+<div align="center">
+<a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" /></a>
+<a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="48" /></a>
+<a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="48" /></a>
+<a href="https://www.jenkins.io/"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="48" /></a>
+<a href="https://kubernetes.io/"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="48" /></a>
 </div>
+
+</td>
+<td valign="top" width="25%">
+
+#### AI · LLM
+
+<!-- 彩色 SVG：与 Backend 相同用 profilinator；其余用 Simple Icons CDN 品牌色 / Wikimedia（OpenAI 官方标） -->
+<div align="center">
+<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" height="48" /></a>
+<a href="https://spring.io/projects/spring-ai"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring AI" height="48" /></a>
+<a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" height="48" /></a>
+<a href="https://openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" height="48" /></a>
+<a href="https://github.com/anthropics/claude-code"><img src="https://cdn.simpleicons.org/anthropic/D4A574" alt="Claude Code" height="48" /></a>
+<a href="https://cursor.com/"><img src="https://cdn.simpleicons.org/cursor/14120B" alt="Cursor" height="48" /></a>
+<a href="https://pytorch.org/"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="48" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="48" /></a>
+<a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="48" /></a>
+<a href="https://www.tengvibecoding.site/" title="Vibe Coding 作品集"><img src="https://cdn.simpleicons.org/rocket/7C3AED" alt="Vibe Coding" height="48" /></a>
+</div>
+
 </td>
 </tr>
 </table>
 
-# 🚀 Actions
-<div align="center"> 
-  <img 
-    height="137px" 
-    src="https://github-readme-stats.vercel.app/api?username=CodeTeng&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&cache_seconds=1800" 
-    onerror="this.src='https://stats.justsong.cn/api/github-stats?username=CodeTeng&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite'"
+---
+
+## 🚀 GitHub Stats
+
+<!-- GitHub 渲染会去掉 img 的 onerror，故只保留稳定地址；若 stats 超时可多刷新 -->
+<div align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=CodeTeng&hide_title=true&hide_border=true&show_icons=true&line_height=22&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"
     alt="GitHub Stats"
   />
-  <img 
-    height="137px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeTeng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=1800" 
-    onerror="this.src='https://stats.justsong.cn/api/top-langs?username=CodeTeng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite'"
-    alt="Top Langs"
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeTeng&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"
+    alt="Top Languages"
   />
 </div>
